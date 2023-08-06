@@ -1,4 +1,4 @@
-# Spring Boot 3 Reactive Programming with Webflux and RabbitMQ
+# Webflux and RabbitMQ
 Version : 3.0.6, Java : 17, JUnit : 5  
 
 ## RabbitMQ assumption
