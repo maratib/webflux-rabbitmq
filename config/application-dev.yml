@@ -1,0 +1,6 @@
+server:
+  port: "8181"
+app:
+  queue: "sample_queue"
+  exchange: "sample_exchange"
+  routingKey: "sample_routingKey"
