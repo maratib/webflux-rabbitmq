@@ -26,6 +26,8 @@ public class WebClientTest {
                 .parallel()
                 .subscribe(id -> getWebClient(id));
 
+        System.out.println("Test ends");
+
     }
 
     private void getWebClient(int id) {
